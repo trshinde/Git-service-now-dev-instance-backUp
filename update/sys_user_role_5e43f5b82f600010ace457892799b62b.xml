@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>git_backup</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix/>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-14 23:48:59</sys_created_on>
+        <sys_id>5e43f5b82f600010ace457892799b62b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>git_backup</sys_name>
+        <sys_package display_value="Git backup" source="x_402376_git_backu">55d2bd782f600010ace457892799b6e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git backup">55d2bd782f600010ace457892799b6e8</sys_scope>
+        <sys_update_name>sys_user_role_5e43f5b82f600010ace457892799b62b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-14 23:48:59</sys_updated_on>
+    </sys_user_role>
+</record_update>
